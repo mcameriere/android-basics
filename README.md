@@ -1,4 +1,4 @@
-# android-basics
+# android-cli
 
 ## Build an APK from the CLI
 
