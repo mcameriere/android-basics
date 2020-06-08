@@ -30,4 +30,5 @@ How to build and launch an app in Android Emulator from the Command Line Interfa
     emulator-5554   device
 
     $ cd ./app/build/outputs/apk/debug
+    
     $ adb -s emulator-5554 install app-debug.apk
