@@ -1,6 +1,6 @@
 # android-cli
 
-How to build and launch an Android app from the CLI
+How to build and launch an Android app from the Command Line Interface
 
 ## Build APK
 
