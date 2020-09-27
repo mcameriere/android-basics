@@ -32,3 +32,7 @@ How to build and launch an Android app from the Command Line Interface
     $ cd ./app/build/outputs/apk/debug
     
     $ adb -s emulator-5554 install app-debug.apk
+
+## Launch app
+
+    $ adb shell am start -n com.package.name/com.package.name.ActivityName
